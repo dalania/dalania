@@ -8,7 +8,7 @@ intuitivas para usuários.
 - 💼 Atualmente sou programadora de desenvolvimento Web front-end na Superitência de Tecnologia da Informação da UFRN
 - 📫 Contate-me no email: jdalaniasilva@gmail.com
 ##
-<div align="center">
+<div align="">
   <a href="https://www.linkedin.com/in/dalania-silva/">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dalania&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&hide_rank=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dalania&layout=compact&langs_count=7&theme=radical&hide_border=true"/>
